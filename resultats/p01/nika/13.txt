@@ -1,0 +1,1 @@
+-rwxr-x--x 1 nika nika 30 Oct 30 18:07 /home/nika/test/prova
