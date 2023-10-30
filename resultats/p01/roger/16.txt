@@ -1,0 +1,288 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+
+  
+
+
+  
+  <title>xarxa de mots</title>
+  <base target="_blank">
+  
+  <link rel="shortcut icon" href="http://www.lletres.net/xdm/favicon.ico">
+
+
+  
+  <style type="text/css">
+A {text-decoration: none;
+font size: 12pt;
+font-family: Lucida Console;
+line-height: 22pt;}
+A:hover {color: maroon; text-decoration: underline;}
+a:visited {text-decoration: none; font size: 12pt;line-height: 25pt;}
+H1
+{
+font size: 30pt;
+color: white;
+line-height : 44pt;
+font-family: Lucida Console;
+font-weight: lighter;
+margin-left: 120pt;"
+}
+P {
+font-family: Lucida Console;}
+  </style>
+</head>
+
+
+<body style="color: rgb(192, 192, 192); background-color: rgb(0, 0, 0);" alink="#ffff00" link="#ffffff" vlink="#c0c0c0"font face="Lucida Console">
+
+
+
+<br>
+
+
+<br>
+
+
+<table cellspacing="2" cellpadding="22" width="80%" border="0">
+<tr>
+	<td><img src="http://www.xarxa.cat/logoXarxa_l.png"  style="margin-left: 55px;" border="0"  width="201" border="0"><br><br></td>
+	<td rowspan="2"><a href="http://www.lletres.net/pla/QG100/"><p><br><br>	<img src="kubrickheader-FIN.jpg" width="450" border="4" align="middle"></a></td>
+</tr>
+<tr>
+	<td><p style="margin-left: 40pt;"><font ;="" color="#ff9900" face="Lucida Console" size="+1"><strong>Qualitat ling&uuml;&iacute;stica i liter&agrave;ria a la<u></u> xarxa</strong></font></td>
+</tr>
+</table>
+<br> <br>
+	
+
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody align="baseline">
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span><a href="http://www.rodamots.cat" target="_blank">RodaMots</a><span style="color:#800000;"> ]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Cada dia un mot</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[</span> <a href="http://lletres.net/pla" target="_blank">Josep Pla</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Una tria de textos breus</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span><a href="http://www.joanfmira.info/" target="_blank">Joan F. Mira</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Tria de textos</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span><a href="http://www.lletres.net/sales" target="_blank">Joan Sales</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:3000px;">
+						<p>
+							Pensament, acci&oacute;, literatura</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span><a href="http://www.minimalia.net/" target="_blank">Minim&agrave;lia</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Per llegir, pensar, gaudir i endur-se</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span><a href="http://lletres.net/pla/QG/" target="_blank">Josep Pla</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							bloQG <em>El quadern gris</em> al cap de 90 anys. <strong>Premi Lletra 2008</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[&nbsp;</span><a href="http://www.joanfmira.info/articles/" target="_blank">Joan F. Mira</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Punt de Mira: els articles de Joan F. Mira</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span> <a href="http://lletres.net/pla/QNV/" target="_blank">Josep Pla</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Quadern de notes vistes. Un Pla diacr&ograve;nic</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[&nbsp;</span><a href="http://lletres.net/sales/cmt/" target="_blank">Joan Sales</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							<em>Cartes a M&agrave;rius Torres</em> (1936-1941), clau d'<em>Incerta gl&ograve;ria</em></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span><a href="http://www.lletres.net/rovira/dd/">Antoni Rovira i Virgili</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Els darrers dies de la Catalunya republicana</p>
+					</td>
+				</tr>
+			</tbody>
+			
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000;">[ </span><a href="http://migjorn.cat/benvinguda.html">InfoMigjorn</a> <span style="color:#800000;">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Butllet&iacute; digital sobre llengua catalana (2016 - 2018)</p>
+					</td>
+				</tr>
+
+				<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000">[ </span><a href="https://dellengua.wordpress.com/">Raons de llengua</a> <span style="color:#800000">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							Sobre el parlar i l'escriure</p>
+					</td>
+				</tr>				
+				
+<tr>
+					<td style="width:3000px;">
+						<p align="right">
+							<strong><span style="color:#800000">[ </span><a href="http://www.lletres.net/pla/QG100/">Josep Pla</a> <span style="color:#800000">]</span></strong></p>
+					</td>
+					<td style="width:65px;">
+						<p>
+							&nbsp;</p>
+					</td>
+					<td style="width:5500px; font-face="Lucida Console">
+						<p>
+							bloQG 100 <em>El quadern gris</em>, 100 anys - ed. Narc&iacute;s Garolera</p>
+					</td>
+				</tr>								
+				
+		</table>
+		<p></div>
+			&nbsp;</p>
+
+<ul>
+&nbsp;&nbsp;&nbsp;<img src="correuXarxa.png" alt="" width="214" height="49" border="0">
+</ul>
+			      <br><br><br><br>
+
+      <br>
+
+
+      </font></font></strong></font>
+      
+<div align="right"> <a href="http://extremetracking.com/open?login=xdmots"
+target="_top"><img src="http://t1.extreme-dm.com/i.gif"
+name="EXim" border="0" height="38" width="41"
+alt="eXTReMe Tracker"></img></a>
+<script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script type="text/javascript"><!--
+var EXlogin='xdmots' // Login
+var EXvsrv='s10' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e1.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+</script><noscript><img height="1" width="1" alt=""
+src="http://e1.extreme-dm.com/s10.g?login=xdmots&amp;j=n&amp;jv=n"/>
+</noscript></div>
+
+      </font></font></strong></font></div>
+
+
+
+	</body>
+</html>

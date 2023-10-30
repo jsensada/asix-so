@@ -1,0 +1,278 @@
+    1  ip a
+    2  ping google.es
+    3  lsblk
+    4  w
+    5  sudo su
+    6  git config --global user.name "Roger"
+    7  git config --global user.name "RogerVMTasca3"
+    8  git config --global user.email "rrius28@xarxa.fedac.cat"
+    9  ssh-keygen
+   10  cat ~/.ssh/id_rsa.pub
+   11  cat ~/.ssh/authorized_keys
+   12  ls ~/.ssh/
+   13  ls
+   14  ./inicia_practica.sh 
+   15  ls
+   16  cd asix-iso/
+   17  ls
+   18  cd resultats/
+   19  ls
+   20  cd ..
+   21  tree
+   22  sudo apt install tree
+   23  kill 1699
+   24  sudo kill 1699
+   25  sudo apt install tree
+   26  sudo ./inicia_practica.sh 
+   27  history
+   28  cat ~/.ssh/authorized_keys
+   29  ssh-keygen
+   30  ./inicia_practica.sh 
+   31  sudo ./inicia_practica.sh 
+   32  sudo apt install git
+   33  sudo ./inicia_practica.sh 
+   34  history 
+   35  SHA256:Fj3Gnvi8DNcbKitc/YHF5CNAfx11dJMx/5wPJnfG2uo roger@roger
+   36  cat ~/.ssh/id_rsa.pub
+   37  ./inicia_practica.sh 
+   38  sudo nano inicia_practica.sh 
+   39  ./inicia_practica.sh 
+   40  sudo nano entrega_practica.sh 
+   41  tree
+   42  sudo apt install tree
+   43  tree
+   44  rm -r asix-so/
+   45  ls
+   46  cd asix-iso/
+   47  cd ..
+   48  sudo rm -r asix-iso/
+   49  sudo nano inicia_practica.sh 
+   50  ./inicia_practica.sh 
+   51  ls
+   52  rm -r clau clau.pub 
+   53  ls
+   54  cd asix-so/
+   55  ls
+   56  tree
+   57  cat README.md 
+   58  cd resultats/p01/
+   59  ls -l
+   60  ls -a
+   61  nano .placeholder 
+   62  cd roger
+   63  ls
+   64  w
+   65  uptime
+   66  nano 1.txt
+   67  tim
+   68  time
+   69  date
+   70  nano 2.txt
+   71  free
+   72  free -h
+   73  nano 3.txt
+   74  free --human
+   75  free -th
+   76  nano 3.txt
+   77  lsblk
+   78  disk
+   79  ls -S
+   80  sudo ls -S
+   81  fdisk
+   82  sudo fdisk
+   83  sudo fdisk /dev/
+   84  sudo sudo fdisk /dev/
+   85  sudo sudo fdisk /dev/sda
+   86  lsblk /dev/sda
+   87  ls
+   88  df -h
+   89  lf -h
+   90  ls
+   91  lf
+   92  df
+   93  dh
+   94  dd
+   95  sudo fdisk -l
+   96  lsblk
+   97  lsblk -h
+   98  lsblk 
+   99  lsblk -h
+  100  lsblk /dev/sda size
+  101  lsblk
+  102  lsblk /dev/sda size
+  103  sudo du -rh /dev/+
+  104  sudo du -h /home/ | sort -n
+  105  sudo du -h /home/ | sort -nr
+  106  nano 5.txt
+  107  cp 4.txt 5.txt
+  108  cat 5.txt 
+  109  nano 4.txt 
+  110  rm 4.txt 
+  111  nano 4.txt
+  112  lsblk -h
+  113  lsblk
+  114  lsblk /sda
+  115  lsblk /sda/
+  116  lsblk dev/sda/
+  117  lsblk /dev/sda/
+  118  lsblk /dev/sda
+  119  nano 4.txt 
+  120  dh -h
+  121  df -h
+  122  nano 4.txt 
+  123  ls
+  124  nano .txt
+  125  cat 6.txt 
+  126  sudo apt install nginx
+  127  nginx- v
+  128  nginx -v
+  129  cat 7.txt 
+  130  nano 7.txt 
+  131  find test
+  132  find test /
+  133  ls /var/www/html/index.nginx-debian.html 
+  134  sudo apt search test
+  135  nano 8.txt
+  136  apt list --installed | grep apache2
+  137  apt list --installed | grep test
+  138  dpkg -l | grep apache2
+  139  dpkg -l | grep test
+  140  nano 8.txt
+  141  sudo dpkg -l | grep test
+  142  sudo apt list --installed | grep test
+  143  nano 8.txt
+  144  mkdir /home/roger/
+  145  mkdir test /home/roger/
+  146  mkdir /home/roger/test
+  147  nano 8.txt 
+  148  touch /home/roger/test/prova
+  149  ln -s /home/roger/test/prova link
+  150  ls
+  151  tree
+  152  rm test/
+  153  sudo rm test/
+  154  sudo rm test
+  155  sudo rm -r test
+  156  ls
+  157  tree /home/roger/
+  158  tree /home/roger/asix-so/
+  159  ls
+  160  nano 12.txt
+  161  history
+  162  cd /home/roger/
+  163  ls
+  164  cd test
+  165  ls
+  166  ls -l
+  167  sudo chmod 751
+  168  sudo chmod 751 prova 
+  169  ls -l
+  170  sudo chmod  prova 
+  171  sudo chmod 752 prova 
+  172  ls -l
+  173  sudo chmod 754 prova 
+  174  ls -l
+  175  cd ..
+  176  ls
+  177  cd asix-so/resultats/p01/roger/
+  178  ls
+  179  nano 13.txt
+  180  ping google.com
+  181  nano 14.txt
+  182  ip a
+  183  ping 34.78.228.23
+  184  portscan 34.78.228.23
+  185  port 34.78.228.23
+  186  sudo apt install nmap
+  187  nmap 34.78.228.23 -p 80,90,22
+  188  nmap 34.78.228.23 -p-
+  189  nmap 34.78.228.23 -Pn
+  190  nmap 34.78.228.23 -p-
+  191  nmap -p- 34.78.228.23
+  192  ls
+  193  nano 15.txt
+  194  curl xarxa.cat > 16.txt
+  195  cat 16.txt 
+  196  ls
+  197  ls -l
+  198  fdisk -l
+  199  sudo fdisk -l
+  200  ls
+  201  cd asix-so/
+  202  tree
+  203  fdisk
+  204  fdisk -l
+  205  sudo fdisk -l
+  206  sudo pvcreate /dev/sdb
+  207  sudo vgcreate vg-fedac /dev/sdb
+  208  sudo lvcreate -L 10G -n roger vg-fedac
+  209  sudo lvcreate -L 8G -n roger vg-fedac
+  210  sudo mkfs.ext4 /dev/vg-fedac/roger
+  211  cd /mnt/
+  212  sudo mkdir /xarxa
+  213  ls
+  214  ls /home/
+  215  ls /home/roger/
+  216  ls
+  217  cd ..
+  218  ls
+  219  sudo mount /dev/vg-fedac/roger /xarxa
+  220  echo "/dev/vg-fedac/roger /xarxa ext4 defaults 0 0" | sudo tee -a /etc/fstab
+  221  sudo lvextend -L 15G /dev/vg-fedac/roger
+  222  exit
+  223  lsblk
+  224  history
+  225  sudo lvextend -L 15G /dev/vg-fedac/roger
+  226  sudo pvresize /dev/sdb
+  227  sudo lvextend -L 15G /dev/vg-fedac/roger
+  228  lsblk
+  229  sudo resize2fs /dev/vg-fedac/<nom_estudiant>
+  230  sudo resize2fs /dev/vg-fedac/roger
+  231  sudo apt-get update
+  232  sudo apt-get install nfs-kernel-server
+  233  sudo mkdir /mnt/shared
+  234  sudo mount -t nfs localhost:/xarxa /mnt/shared
+  235  sudo reboot now
+  236  sudo mount -t nfs localhost:/xarxa /mnt/shared
+  237  cat /etc/exports
+  238  sudo nano /etc/exports
+  239  sudo exportfs -ra
+  240  sudo systemctl status nfs-kernel-server
+  241  sudo mount -t nfs localhost:/xarxa /mnt/shared
+  242  df -h /xarxa
+  243  df -h /mnt/shared
+  244  tree
+  245  cd asix-so/resultats/p01/roger/
+  246  ls
+  247  nano fs.txt
+  248  find / -name "fitxer_random.md" > ~/asix-so/resultats/p01/$(whoami)/17.txt
+  249  sudo find / -name "fitxer_random.md" > ~/asix-so/resultats/p01/$(whoami)/17.txt
+  250  cat 17.txt 
+  251  cat 18.txt
+  252  cat asix-so/resultats/p01/roger/18.txt
+  253* cat /home/
+  254  nano asix-so/resultats/p01/roger/18.txt
+  255  crontab -e
+  256  crontab -l
+  257  nano asix-so/resultats/p01/roger/20.txt
+  258  timeout 300s tail -f /var/log/syslog | grep 'CRON' > ~/asix-so/resultats/p01/$(whoami)/21.txt
+  259  sudo timeout 300s tail -f /var/log/syslog | grep 'CRON' > ~/asix-so/resultats/p01/$(whoami)/21.txt
+  260  cat ~/asix-so/resultats/p01/$(whoami)/21.txt
+  261  history > ~/asix-so/resultats/p01/$(whoami)/22.txt
+  262  cat ~/asix-so/resultats/p01/$(whoami)/22.txt
+  263  nano ~/asix-so/resultats/p01/$(whoami)/22.txt
+  264  cat /var/log/cron
+  265  grep CRON /var/log/syslog
+  266  SUDO grep CRON /var/log/syslog
+  267  sudo grep CRON /var/log/syslog
+  268  cat ~/asix-so/resultats/p01/$(whoami)/21.txt
+  269  cat ~/asix-so/resultats/p01/$(whoami)/20.txt
+  270  crontab -e
+  271  nano ~/asix-so/resultats/p01/$(whoami)/20.txt
+  272  crontab -e
+  273  nano ~/asix-so/resultats/p01/$(whoami)/20.txt
+  274  grep CRON /var/log/syslog
+  275  sudo grep CRON /var/log/syslog
+  276  nano asix-so/resultats/p01/roger/21.txt
+  277  nano asix-so/resultats/p01/roger/22.txt
+  278  history > ~/asix-so/resultats/p01/$(whoami)/22.txt

@@ -1,0 +1,9 @@
+ping google.com
+PING google.com (172.253.120.113) 56(84) bytes of data.
+64 bytes from wd-in-f113.1e100.net (172.253.120.113): icmp_seq=1 ttl=118 time=0.917 ms
+64 bytes from wd-in-f113.1e100.net (172.253.120.113): icmp_seq=2 ttl=118 time=0.353 ms
+64 bytes from wd-in-f113.1e100.net (172.253.120.113): icmp_seq=3 ttl=118 time=0.311 ms
+^C
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 0.311/0.527/0.917/0.276 ms

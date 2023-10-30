@@ -1,0 +1,5 @@
+roger@roger:~/test$ sudo chmod 754 prova 
+
+roger@roger:~/test$ ls -l
+total 0
+-rwxr-xr-- 1 roger roger 0 Oct 27 17:18 prova

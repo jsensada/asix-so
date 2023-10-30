@@ -1,0 +1,6 @@
+              total        used        free      shared  buff/cache   available
+Mem:          1.9Gi       198Mi       1.2Gi       0.0Ki       583Mi       1.6Gi
+Swap:            0B          0B          0B
+Total:        1.9Gi       198Mi       1.2Gi
+
+Total de 2019MB, que són 2GB i el sistema ho interpreta com 1,9GB amb la comanda "free -h"

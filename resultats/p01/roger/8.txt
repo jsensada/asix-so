@@ -1,0 +1,4 @@
+NO
+
+Ho he buscat amb la comanda "sudo apt list --installed | grep test" i "sudo dpkg -l | grep test"
+

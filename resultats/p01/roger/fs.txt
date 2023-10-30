@@ -1,0 +1,7 @@
+roger@roger:~$ df -h /xarxa
+Filesystem                   Size  Used Avail Use% Mounted on
+/dev/mapper/vg--fedac-roger   15G   24K   14G   1% /xarxa
+
+roger@roger:~$ df -h /mnt/shared
+Filesystem        Size  Used Avail Use% Mounted on
+localhost:/xarxa   15G  256K   14G   1% /mnt/shared

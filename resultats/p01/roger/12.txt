@@ -1,0 +1,17 @@
+tree /home/roger/asix-so/
+/home/roger/asix-so/
+├── README.md
+└── resultats
+    └── p01
+        └── roger
+            ├── 1.txt
+            ├── 2.txt
+            ├── 3.txt
+            ├── 4.txt
+            ├── 5.txt
+            ├── 6.txt
+            ├── 7.txt
+            ├── 8.txt
+            └── link -> /home/roger/test/prova
+
+3 directories, 10 files

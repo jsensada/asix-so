@@ -1,0 +1,3 @@
+Fri Oct 27 16:43:04 UTC 2023
+
+És diferent a la del meu PC perquè està en format UTC que és la hora mundial estnándar amb la que el món regula els rellotges i el temps.

@@ -1,0 +1,15 @@
+roger@roger:~$ sudo grep CRON /var/log/syslog
+Oct 30 16:39:17 roger cron[821]: (CRON) INFO (pidfile fd = 3)
+Oct 30 16:39:17 roger cron[821]: (CRON) INFO (Skipping @reboot jobs -- not system startup)
+Oct 30 17:17:01 roger CRON[1076]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct 30 17:25:28 roger cron[550]: (CRON) INFO (pidfile fd = 3)
+Oct 30 17:25:28 roger cron[550]: (CRON) INFO (Running @reboot jobs)
+Oct 30 17:25:36 roger cron[883]: (CRON) INFO (pidfile fd = 3)
+Oct 30 17:25:36 roger cron[883]: (CRON) INFO (Skipping @reboot jobs -- not system startup)
+Oct 30 17:50:01 roger CRON[1479]: (roger) CMD (hostname > ~/asix-so/resultats/p01/$(whoami)/20.txt)
+Oct 30 17:55:02 roger CRON[1498]: (roger) CMD (hostname > ~/asix-so/resultats/p01/$(whoami)/20.txt)
+Oct 30 18:00:01 roger CRON[1526]: (roger) CMD (hostname > ~/asix-so/resultats/p01/$(whoami)/hostname.txt)
+Oct 30 18:05:01 roger CRON[1536]: (roger) CMD (hostname > ~/asix-so/resultats/p01/$(whoami)/hostname.txt)
+Oct 30 18:10:01 roger CRON[1889]: (roger) CMD (hostname > ~/asix-so/resultats/p01/$(whoami)/hostname.txt)
+
+L'ordre del cron funciona.

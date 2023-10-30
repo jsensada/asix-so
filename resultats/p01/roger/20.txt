@@ -1,0 +1,4 @@
+He fet que el CRON, en la mateixa ordre, executi la comanda "hostname" i la escrigui cada 5 minuts a l'arxiu /home/roger/asix-so/resultats/p01/roger/hostname.txt.
+
+- Comanda escrita a cron: */5 * * * * hostname > ~/asix-so/resultats/p01/$(whoami)/hostname.txt
+

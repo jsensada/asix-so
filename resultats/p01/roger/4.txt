@@ -1,0 +1,32 @@
+lsblk /dev/sda:
+
+NAME    MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda       8:0    0   10G  0 disk 
+├─sda1    8:1    0  9.9G  0 part /
+├─sda14   8:14   0    4M  0 part 
+└─sda15   8:15   0  106M  0 part /boot/efi
+
+o també
+
+df -h:
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       9.6G  2.8G  6.8G  29% /
+devtmpfs        983M     0  983M   0% /dev
+tmpfs           987M     0  987M   0% /dev/shm
+tmpfs           198M  944K  197M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           987M     0  987M   0% /sys/fs/cgroup
+/dev/loop0       56M   56M     0 100% /snap/core18/2566
+/dev/loop1       64M   64M     0 100% /snap/core20/1623
+/dev/loop2      299M  299M     0 100% /snap/google-cloud-cli/72
+/dev/loop3       68M   68M     0 100% /snap/lxd/22753
+/dev/sda15      105M  5.2M  100M   5% /boot/efi
+/dev/loop5       41M   41M     0 100% /snap/snapd/20290
+/dev/loop6       64M   64M     0 100% /snap/core20/2015
+/dev/loop7       56M   56M     0 100% /snap/core18/2790
+/dev/loop8       92M   92M     0 100% /snap/lxd/24061
+tmpfs           198M     0  198M   0% /run/user/1002
+
+
+10 GB en total.
