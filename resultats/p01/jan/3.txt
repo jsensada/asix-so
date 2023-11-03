@@ -1,0 +1,4 @@
+jan@jan:~$ free --giga
+              total        used        free      shared  buff/cache   available
+Mem:              2           0           1           0           0           1
+Swap:             0           0           0
