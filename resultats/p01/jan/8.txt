@@ -1,0 +1,4 @@
+NO
+He fet servir:
+sudo apt list --installed |grep test
+sudo dpkg -l | grep test

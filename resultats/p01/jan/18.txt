@@ -1,0 +1,8 @@
+/var/lib/fitxer_random.md:Aprovat
+/var/log/auth.log:Oct 30 18:48:11 jan sudo:      jan : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/find Aprovat
+/var/log/auth.log:Oct 30 18:48:27 jan sudo:      jan : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/find / -word Aprovat
+/var/log/auth.log:Oct 30 18:48:32 jan sudo:      jan : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/find / Aprovat
+/var/log/auth.log:Oct 30 19:02:17 jan sudo:      jan : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/grep -r Aprovat /
+/var/log/auth.log:Oct 30 19:02:59 jan sudo:      jan : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/grep -r Aprovat /
+/var/log/auth.log:Oct 30 19:03:31 jan sudo:      jan : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/grep -r Aprovat /
+Binary file /var/log/journal/aa6308b0ae18726831fd11fc7e1fe2b9/system.journal matches

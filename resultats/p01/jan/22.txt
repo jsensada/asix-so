@@ -1,0 +1,187 @@
+    1  sudo su -
+    2  git config --global user.name jan
+    3  git config --global user.email jpons4@xarxa.fedac.cat
+    4  ssh-keygen
+    5  cat ~/.ssh/id_rsa.pub
+    6  ./inicia_practica.sh
+    7  nano inicia_practica.sh 
+    8  sudo nano inicia_practica.sh 
+    9  ./inicia_practica.sh
+   10  rm asix-so/
+   11  rm asix-iso/
+   12  rm -rf asix-so/
+   13  rm -rf asix-iso/
+   14  ls
+   15  sudo nano inicia_practica.sh 
+   16  ./inicia_practica.sh 
+   17  ls
+   18  w
+   19  uptime
+   20  nano ~/asix-so/resultats/p01/jan/1.txt
+   21  nano ~/asix-so/resultats/p01/jan/2.txt
+   22  free
+   23  free -giga
+   24  free --giga
+   25  nano ~/asix-so/resultats/p01/jan/3.txt
+   26  -h
+   27  free -h
+   28  nano ~/asix-so/resultats/p01/jan/4.txt
+   29  cd /home/
+   30  sudo ls -s
+   31  ls | sort
+   32  ls | sort -nr
+   33  ls -la | sort -nr
+   34  sudo du /home/* | sort -nr
+   35  nano ~/asix-so/resultats/p01/jan/5.txt
+   36  sudo du /home/* | sort -nr
+   37  nano ~/asix-so/resultats/p01/jan/5.txt
+   38  apt update
+   39  apt upgrade
+   40  cd ..
+   41  sudo apt update
+   42  sudo apt upgrade
+   43  hd -h
+   44  df -h
+   45  nano ~/asix-so/resultats/p01/jan/4.txt
+   46  hd -h > ~/asix-so/resultats/p01/jan/4.txt 
+   47  nano ~/asix-so/resultats/p01/jan/4.txt
+   48  hd -h > ~/asix-so/resultats/p01/jan/4.txt 
+   49  nano ~/asix-so/resultats/p01/jan/4.txt
+   50  hd -h > ~/asix-so/resultats/p01/jan/4.txt 
+   51  nacac~ ararasdsadasdasdasgsqeñoj`qewoiherqwoiphroiwhqroihwqroiheqwoihrewuoiqrsuigfiusdgfjkabskfuñbdasoiñhfweoh~,[B/asix-so/resultats/p01/jan/4.txt
+   52  cat
+   53  hd -h > ~/asix-so/resultats/p01/jan/4.txt 
+   54  nano ~/asix-so/resultats/p01/jan/4.txt
+   55  hd -hd > ~/asix-so/resultats/p01/jan/4.txt 
+   56  nano ~/asix-so/resultats/p01/jan/4.txt
+   57  df -h > ~/asix-so/resultats/p01/jan/4.txt 
+   58  nano ~/asix-so/resultats/p01/jan/4.txt
+   59  nano ~/asix-so/resultats/p01/jan/4.txtt
+   60  df -h > ~/asix-so/resultats/p01/jan/4.txt
+   61  nano ~/asix-so/resultats/p01/jan/4.txtt
+   62  df -h
+   63  nano ~/asix-so/resultats/p01/jan/4.txtt
+   64  nano ~/asix-so/resultats/p01/jan/4.txt
+   65  cd ~/asix-so/resultats/p01/jan/
+   66  ls
+   67  cd ..
+   68  nano ~/asix-so/resultats/p01/jan/6.txt
+   69  apt-get nginx
+   70  sudo apt-get nginx
+   71  sudo apt-get install ngi
+   72  nginx -v
+   73  nano ~/asix-so/resultats/p01/jan/7.txt
+   74  search test
+   75  sudo apt list --installed | grep test
+   76  sudo dpg -l | grep test
+   77  sudo dpkg -l | grep test
+   78  nano ~/asix-so/resultats/p01/jan/8.txt
+   79  cd 
+   80  mkdir test
+   81  cd test/
+   82  nano prova.txt
+   83  ls
+   84  cd 
+   85  ln -s test/prova.txt link
+   86  tree
+   87  apt install tree
+   88  sudo apt install tree
+   89  tree
+   90  tree > ~/asix-so/resultats/p01/jan/12.txt
+   91  nano ~/asix-so/resultats/p01/jan/12.txt 
+   92  chmod 752 test/prova.txt 
+   93  chmod 752 test/prova.txt > ~/asix-so/resultats/p01/jan/13.txt
+   94  nano ~/asix-so/resultats/p01/jan/13.txt 
+   95  ping google.com
+   96  nano ~/asix-so/resultats/p01/jan/14.py
+   97  ping google.com > ~/asix-so/resultats/p01/jan/14.txt
+   98  cd ~/asix-so/resultats/p01/jan/
+   99  ls
+  100  nano 14.txt 
+  101  cd ..
+  102  cd 
+  103  ./inicia_practica.sh 
+  104  ls
+  105  cd ~/asix-so/resultats/p01/jan/
+  106  ls
+  107  nmap localhost host
+  108  sudo apt install nmap
+  109  nmap localhost
+  110  nano 15.txt
+  111  curl xarxa.cat
+  112  curl xarxa.cat > 16.txt
+  113  nano 16.
+  114  nano 16.txt 
+  115  ls
+  116  nano 14.py.save 
+  117  rm 14.py.save 
+  118  ls
+  119  lsblk
+  120  sudo fdisk -l
+  121  sudo pvcreate /dev/sdb
+  122  sudo vgcreate vg-fedac /dev/sdb
+  123  sudo lvcreate +10g -n jan vg-fedac
+  124  sudo lvcreate -L +10g -n jan vg-fedac
+  125  lvs
+  126  sudo lvs
+  127  sudo mkfs.ext4 /dev/vg-fedac/jan 
+  128  cd ..
+  129  sudo mkdir /xarxa
+  130  sudo mount /dev/vg-fedac/jan /xarxa
+  131  sudo lvcreate -L +15g -n jan vg-fedac
+  132  sudo lvextend +15g -n jan vg-fedac
+  133  sudo lvextend --help
+  134  sudo lvextend -L +5g -n jan vg-fedac
+  135  sudo lvextend -L 15G /dev/vg-fedac/jan
+  136  sudo apt-get install nfs-kernel-server
+  137  sudo nano /etc/exports 
+  138  sudo systemctl restart nfs-kernel-server
+  139  mount 35.195.237.212:/xarxa /mnt/shared
+  140  sudo mount 35.195.237.212:/xarxa /mnt/shared
+  141  cd mnt/
+  142  mkdir shared
+  143  sudo mkdir shared
+  144  cd ..
+  145  sudo mount 35.195.237.212:/xarxa /mnt/shared
+  146  sudo mount 127.0.0.1:/xarxa /mnt/shared
+  147  df -h
+  148  df -h > ~/asix-so/resultats/p01/jan/fs.txt
+  149  nano ~/asix-so/resultats/p01/jan/fs.txt 
+  150  sudo find / -name "fitxer_random.md" > ~/asix-so/resultats/p01/jan/17.txt
+  151  sudo find / name "fitxer_random.md" > ~/asix-so/resultats/p01/jan/17.txt
+  152  sudo find / -name "fitxer_random.md" > ~/asix-so/resultats/p01/jan/17.txt
+  153  nano ~/asix-so/resultats/p01/jan/17.txt 
+  154  sudo find "Aprovat"
+  155  sudo find / -word "Aprovat"
+  156  sudo find / "Aprovat"
+  157  grep -r "Aprovat" /
+  158  sudo grep -r "Aprovat" /
+  159  sudo grep -r "Aprovat" / > ~/asix-so/resultats/p01/jan/18.txt
+  160  nano ~/asix-so/resultats/p01/jan/18.txt 
+  161  sudo grep -r "Aprovat" / > ~/asix-so/resultats/p01/jan/18.txt
+  162  nano ~/asix-so/resultats/p01/jan/18.txt 
+  163  ./inicia_practica.sh 
+  164  find ~ -type f -name "*.md" | wc -l > ~/asix-so/resultats/p01/$(whoami)/19.txt
+  165  find ~ -type f -name "*.md" | wc -l > ~/asix-so/resultats/p01/jan/19.txt
+  166  cd ~/asix-so/resultats/p01/
+  167  ls
+  168  cd jan/
+  169  nano 19.txt 
+  170  find ~ -type f -name "*.md" -exec basename {} \; >> ~/asix-so/resultats/p01/jan/19.txt
+  171  ńano 19.txt
+  172  nano nano 19.txt 
+  173  nano 19.txt 
+  174  crontab -e
+  175  */5 * * * * echo $(hostname) >> ~/asix-so/resultats/p01/jan/20.txt
+  176  */5 * * * * echo jan >> ~/asix-so/resultats/p01/jan/20.txt
+  177  nano 20.txt 
+  178  */5 * * * * echo jan >> ~/asix-so/resultats/p01/jan/20.txt
+  179  */5 * * * * echo $(hostname) >> ~/asix-so/resultats/p01/jan/20.txt
+  180  echo */5 * * * * echo $(hostname) >> ~/asix-so/resultats/p01/jan/20.txt
+  181  nano 20.txt 
+  182  tail -f /var/log/syslog | grep CRON
+  183  sudo tail -f /var/log/syslog | grep CRON
+  184  sudo tail -f /var/log/syslog
+  185  nano 21.txt
+  186  history
+  187  history > ~/asix-so/resultats/p01/jan/22.txt

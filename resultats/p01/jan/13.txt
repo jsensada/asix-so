@@ -1,0 +1,1 @@
+jan@jan:~$ chmod 752 test/prova.txt
