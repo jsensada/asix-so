@@ -1,0 +1,3 @@
+Fri Oct 27 16:46:52 UTC 2023
+utc es universal time cordinated, la hora de la maquina esta amb la zona horaria que s'utilitza utc 0
+i españa depenen de sigui estiu utc +1 o hivern utc +2 
