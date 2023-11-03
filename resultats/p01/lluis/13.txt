@@ -1,0 +1,2 @@
+total 0
+-rwxr-xr-- 1 lluis lluis 0 Oct 27 17:26 prova.txt
