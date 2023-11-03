@@ -1,0 +1,361 @@
+    1  lsb_release -a > ~/asix-so/resultats/p01/$(whoami)/0.txt
+    2  sudo su -
+    3  git config --global user.name "Lluis"
+    4  git config --global user.email "lgarcia19@xarxa.fedac.cat"
+    5  ssh-keygen
+    6  cat 
+    7  cat ./.ssh/id_rsa.pub 
+    8  lluis@lluis:~$
+    9  ./inicia_practica.sh 
+   10  lsb_release -a > ~/asix-so/resultats/p01/$(whoami)/0.txt
+   11  ls
+   12  nano inicia_practica.sh 
+   13  sudo nano inicia_practica.sh 
+   14  cd ..
+   15  cd lluis/
+   16  rm -rf asix-iso/
+   17  rm -rf asix-so/
+   18  sudo nano inicia_practica.sh 
+   19  ./inicia_practica.sh 
+   20  lsb_release -a > ~/asix-so/resultats/p01/$(whoami)/0.txt
+   21  cat asix-so/resultats/p01/lluis/0.txt 
+   22  git status
+   23  cd asix-so/
+   24  git status
+   25  datetime
+   26  time
+   27  date
+   28  date > ./resultats/p01/lluis/2.txt
+   29  cat resultats/p01/lluis/2.txt 
+   30  nano resultats/p01/lluis/2.txt 
+   31  w
+   32  w > ./resultats/p01/lluis/1.txt
+   33  cat resultats/p01/lluis/1.txt 
+   34  free -l
+   35  free -g
+   36  free man
+   37  free --help
+   38  free -gibi
+   39  free -g
+   40  free -g > resultats/p01/lluis/3.txt
+   41  disk -h
+   42  df -H >
+   43  df -H > resultats/p01/lluis/3.txt
+   44  df -H > resultats/p01/lluis/4.txt
+   45  free -g > resultats/p01/lluis/3.txt
+   46  du
+   47  ls -SH
+   48  ls -SH /home
+   49  ls -SHr /home
+   50  ls -S -H /home
+   51  ls -S /home
+   52  ls -s /home
+   53  ls -sH /home
+   54  ls -sh /home
+   55  ls -sh /home > resultats/p01/lluis/5.txt
+   56  ls -shLaF /home > resultats/p01/lluis/5.txt
+   57  ls -sha /home > resultats/p01/lluis/5.txt
+   58  cat resultats/p01/lluis/5.txt
+   59  ls -shLaF /home > resultats/p01/lluis/5.txt
+   60  cat resultats/p01/lluis/5.txt
+   61  ls -shLaF /home | sort -hr
+   62  ls du-hr /home | sort -hr
+   63  du -hr /home/* | sort -hr
+   64  du -h /home/* | sort -hr
+   65  sudo du -h /home/* | sort -nr >resultats/p01/lluis/4.txt
+   66  cat resultats/p01/lluis/4.txt
+   67  sudo du -h /home/* | sort -nr >resultats/p01/lluis/5.txt
+   68  df -H > resultats/p01/lluis/4.txt
+   69  cat resultats/p01/lluis/5.txt
+   70  cat resultats/p01/lluis/4.txt
+   71  echo sudo apt update > resultats/p01/lluis/6.txt
+   72  cat resultats/p01/lluis/6.txt
+   73  sudo apt update
+   74  sudo apt install nginx
+   75  sudo rm /var/lib/dpkg/lock-frontend 
+   76  sudo apt install nginx
+   77  sudo rm /var/cache/apt/archives/lock
+   78  sudo apt install nginx
+   79  sudo rm /var/lib/dpkg/lock
+   80  sudo apt install nginx
+   81  sudo dpkg --configure -a
+   82  sudo apt install nginx
+   83  sudo dpkg --configure -a
+   84  sudo apt install nginx
+   85  sudo dpkg --configure -a
+   86  sudo apt install --fix-broken
+   87  sudo reboot
+   88  sudo apt install nginx
+   89  sudo dpkg --configure -a
+   90  sudo apt update
+   91  sudo apt install nginx
+   92  sudo dpkg --configure -a
+   93  cat /var/lib/dpkg/updates/0015
+   94  rm /var/lib/dpkg/updates/0015
+   95  sudo rm /var/lib/dpkg/updates/0015
+   96  sudo apt install nginx
+   97  sudo dpkg --configure -a
+   98  sudo apt install nginx
+   99  nginx --version
+  100  nginx -version
+  101  nginx -v
+  102  nginx -v > ls
+  103  ls
+  104  cd asix-so/
+  105  nginx -v > resultats/p01/lluis/7.txt
+  106  cat resultats/p01/lluis/7.txt
+  107  echo nginx version: nginx/1.18.0 (Ubuntu) > resultats/p01/lluis/7.txt
+  108  echo nginx version: nginx/1.18.0 Ubuntu > resultats/p01/lluis/7.txt
+  109  cat resultats/p01/lluis/7.txt
+  110  dpkg test
+  111  man test
+  112  dpkg-query test
+  113  dpkg-query t--help
+  114  dpkg-query --help
+  115  dpkg-query -S test
+  116  dpkg-query -control-show test
+  117  dpkg-query -c-s test
+  118  dpkg-query --help
+  119  dpkg-query --control-show test
+  120  dpkg-query --control-show test *
+  121  dpkg-query --control-show test /*
+  122  dpkg-query --status test
+  123  echo "YES" > 
+  124  Phato@Lluis MINGW64 ~
+  125  $ ssh -i ~/.ssh/id_rsa lluis@35.205.224.86
+  126  The authenticity of host '35.205.224.86 (35.205.224.86)' can't be established.
+  127  ED25519 key fingerprint is SHA256:vMVpvH+sjw56J5Ly00ti/CagqT+rZSnLMd/0fjv691M.
+  128  This key is not known by any other names.
+  129  Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+  130  Warning: Permanently added '35.205.224.86' (ED25519) to the list of known hosts.
+  131  Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.15.0-1018-gcp x86_64)
+  132   * Documentation:  https://help.ubuntu.com
+  133   * Management:     https://landscape.canonical.com
+  134   * Support:        https://ubuntu.com/advantage
+  135    System information as of Fri Oct 27 16:11:21 UTC 2023
+  136    System load:  0.16              Processes:             100
+  137    Usage of /:   23.6% of 9.51GB   Users logged in:       0
+  138    Memory usage: 11%               IPv4 address for ens4: 10.132.0.19
+  139    Swap usage:   0%
+  140  168 updates can be applied immediately.
+  141  123 of these updates are standard security updates.
+  142  To see these additional updates run: apt list --upgradable
+  143  The programs included with the Ubuntu system are free software;
+  144  the exact distribution terms for each program are described in the
+  145  individual files in /usr/share/doc/*/copyright.
+  146  Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+  147  applicable law.
+  148  To run a command as administrator (user "root"), use "sudo <command>".
+  149  See "man sudo_root" for details.
+  150  lluis@lluis:~$ lsb_release -a > ~/asix-so/resultats/p01/$(whoami)/0.txt
+  151  -bash: /home/lluis/asix-so/resultats/p01/$(whoami)/0.txt: No such file or directory
+  152  lluis@lluis:~$ sudo su -
+  153  [sudo] password for lluis:
+  154  root@lluis:~# exit
+  155  logout
+  156  lluis@lluis:~$ git config --global user.name "Lluis"
+  157  lluis@lluis:~$ git config --global user.email "lgarcia19@xarxa.fedac.cat"
+  158  lluis@lluis:~$ ssh-keygen
+  159  Generating public/private rsa key pair.
+  160  Enter file in which to save the key (/home/lluis/.ssh/id_rsa):
+  161  Enter passphrase (empty for no passphrase):
+  162  Enter same passphrase again:
+  163  Your identification has been saved in /home/lluis/.ssh/id_rsa
+  164  Your public key has been saved in /home/lluis/.ssh/id_rsa.pub
+  165  The key fingerprint is:
+  166  SHA256:wyzJ3aay36lsxwPEb9Q6I9LEJPNYULBIvHH/yidpPyI lluis@lluis
+  167  The key's randomart image is:
+  168  +---[RSA 3072]----+
+  169  |   .. o+.        |
+  170  |   .o.+.o        |
+  171  |    .+.@   .     |
+  172  |    ...=B.. .    |
+  173  |      ++S+o.     |
+  174  |      ..++B      |
+  175  |      .o.B o     |
+  176  |      E+O.*.     |
+  177  |      .=+B+o     |
+  178  +----[SHA256]-----+
+  179  lluis@lluis:~$ cat
+  180  $ ssh -i ~/.ssh/id_rsa lluis@35.205.224.86
+  181  The authenticity of host '35.205.224.86 (35.205.224.86)' can't be established.
+  182  The authenticity of host '35.205.224.86 (35.205.224.86)' can't be established.
+  183  ED25519 key fingerprint is SHA256:vMVpvH+sjw56J5Ly00ti/CagqT+rZSnLMd/0fjv691M.
+  184  This key is not known by any other names.
+  185  Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+  186  This key is not known by any other names.
+  187  Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+  188  Warning: Permanently added '35.205.224.86' (ED25519) to the list of known hosts.
+  189  Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.15.0-1018-gcp x86_64)
+  190  Warning: Permanently added '35.205.224.86' (ED25519) to the list of known hosts.
+  191  Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.15.0-1018-gcp x86_64)
+  192  168 updates can be applied immediately.
+  193  123 of these updates are standard security updates.
+  194  To see these additional updates run: apt list --upgradable
+  195  The programs included with the Ubuntu system are free software;
+  196  the exact distribution terms for each program are described in the
+  197  individual files in /usr/share/doc/*/copyright.
+  198  the exact distribution terms for each program are described in the
+  199  individual files in /usr/share/doc/*/copyright.
+  200  Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+  201  applicable law.
+  202  Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+  203  applicable law.
+  204  To run a command as administrato
+  205  r (user "root"), use "sudo <command>".
+  206  To run a command as administrator (user "root"), use "sudo <command>".
+  207  See "man sudo_root" for details.
+  208  lluis@lluis:~$ lsb_release -a > ~/asix-so/resultats/p01/$(whoami)/0.txt
+  209  -bash: /home/lluis/asix-so/resultats/p01/$(whoami)/0.txt: No such file or directory
+  210  lluis@lluis:~$ sudo su -
+  211  [sudo] password for lluis:
+  212  lluis@lluis:~$ sudo su -
+  213  [sudo] password for lluis:
+  214  root@lluis:~# exit
+  215  logout
+  216  echo "NO" > ~/asix-so/resultats/p01/$(whoami)/8.txt
+  217  cat ~/asix-so/resultats/p01/$(whoami)/8.txt
+  218  ls
+  219  mkdir test
+  220  ls
+  221  touch /test/prova.txt
+  222  touch ./test/prova.txt
+  223  nano ./test/prova.txt 
+  224  sudo apt install tree
+  225  tree test/
+  226  tree 
+  227  tree > asix-so/resultats/p01/lluis/9.txt
+  228  tree > asix-so/resultats/p01/lluis/12.txt
+  229  rm asix-so/resultats/p01/lluis/9.txt
+  230  chmod ./test/prova
+  231  chmod ./test/prova 752
+  232  chmod 752 ./test/prova
+  233  chmod 752 ./test/prova.txt 
+  234  chmod 752 ./test/prova.txt > asix-so/resultats/p01/lluis/13.txt
+  235  ping 8.8.8.8
+  236  ping 8.8.8.8 > asix-so/resultats/p01/lluis/14.txt
+  237  chmod 754 ./test/prova.txt > asix-so/resultats/p01/lluis/13.txt
+  238  ls -l ./test/
+  239  ls -l ./test > asix-so/resultats/p01/lluis/13.txt
+  240  cat asix-so/resultats/p01/lluis/14.txt
+  241  ls -l ./test/
+  242  ls -l ./test
+  243  ls -l ./
+  244  ss 34.78.228.23
+  245  quit
+  246  curl man
+  247  curl xarxa.cat > asix-so/resultats/p01/lluis/16.txt
+  248  cat asix-so/resultats/p01/lluis/16.txt
+  249  find fitxer_random.md
+  250  find -r fitxer_random.md
+  251  find fitxer_random.md
+  252  ls
+  253  cd asix-so/
+  254  find fitxer_random.md
+  255  find .fitxer_random.md
+  256  find . fitxer_random.md
+  257  find -n /. fitxer_random.md
+  258  find --name /. fitxer_random.md
+  259  find -name /. fitxer_random.md
+  260  find -wholename /. fitxer_random.md
+  261  find /path-type f fitxer_random.md
+  262  cd
+  263  find / fitxer_random.md
+  264  find / -name  fitxer_random.md
+  265  sudo find / -name  fitxer_random.md
+  266  cat /var/lib/fitxer_random.md 
+  267  echo /var/lib/fitxer_random.md > asix-so/resultats/p01/lluis/17.txt
+  268  cat asix-so/resultats/p01/lluis/17.txt
+  269  sudo grep / -name  fitxer_random.md
+  270  sudo grep / -name  Aprovat
+  271  sudo grep / Aprovat
+  272  sudo grep /. Aprovat
+  273  sudo grep Aprovat /. 
+  274  sudo grep Aprovat /* 
+  275  sudo grep -l Aprovat /* 
+  276  sudo grep -ld Aprovat /* 
+  277  sudo grep man Aprovat /* 
+  278  sudo grep man
+  279  sudo grep Aprovat
+  280  echo /var/lib/fitxer_random.md > asix-so/resultats/p01/lluis/18.txt
+  281  grep .md /home
+  282  grep -R .md /home
+  283  sudo grep -R .md /home
+  284  sudo grep -R .md /home > asix-so/resultats/p01/lluis/19.txt
+  285  cat asix-so/resultats/p01/lluis/19.txt
+  286  crontab -e 
+  287  crontab -l
+  288  fdisk -l
+  289  sudo fdisk -l
+  290  sudo pvcreate dev/sdb
+  291  sudo pvcreate /dev/sdb
+  292  sudo vgcreate vg-fedac /dev/sdb
+  293  sudo lvcreate +10g -n lluis_garcia vg-fedac
+  294  sudo lvcreate -L +10g -n lluis_garcia vg-fedac
+  295  sudo vgs
+  296  mkfs.ext4 /dev/vg-fedac/lluis_garcia 
+  297  sudp mkfs.ext4 /dev/vg-fedac/lluis_garcia 
+  298  sudo mkfs.ext4 /dev/vg-fedac/lluis_garcia 
+  299  sudo mount /dev/vg-fedac/lluis_garcia /xarxa
+  300  mkdir xarxa
+  301  sudo mount /dev/vg-fedac/lluis_garcia /xarxa
+  302  mkdir /xarxa
+  303  sudo mkdir /xarxa
+  304  sudo mount /dev/vg-fedac/lluis_garcia /xarxa
+  305  sudo lvextend -l +5g /dev/vg-fedac/lluis_garcia
+  306  sudo lvextend -L +5g /dev/vg-fedac/lluis_garcia
+  307  at
+  308  cron
+  309  sudo cronç
+  310  sudo cron
+  311  sudo crontab
+  312  sudo crontab -l
+  313  crontab -l
+  314  crontab
+  315  sudo service cron start
+  316  sudo service cron status
+  317  service cron start
+  318  service cron status
+  319  crontab .l
+  320  crontab -l
+  321  crontab -e
+  322  service cron start
+  323  service cron status
+  324  service cron restart 
+  325  service cron status
+  326  cat /usr/sbin/cron
+  327  service cron status
+  328  crontab -e
+  329  service cron status
+  330  crontab -l
+  331  hostname
+  332  crontab -l
+  333  service cron status
+  334  sudp tail -f /var/log/syslog
+  335  sudo tail -f /var/log/syslog
+  336  sudo apt install nfs-kernel-server 
+  337  sudo nano /etc/exports 
+  338  sudo service nfs
+  339  sudo service nfs-kernel-server restart
+  340  sudo service nfs-kernel-server status
+  341  sudo mount -t nfs 127.0.0.1:/xarxa /mnt/shared
+  342  sudo mkdir /mnt/shared
+  343  sudo mount -t nfs 127.0.0.1:/xarxa /mnt/shared
+  344  sudo df-h
+  345  sudo df -h
+  346  sudo nano /etc/exports 
+  347  sudo df -h > asix-so/resultats/p01/lluis/fs.txt
+  348  cat asix-so/resultats/p01/lluis/fs.txt
+  349  crontab -l
+  350  echo 
+  351  crontab -l > asix-so/resultats/p01/lluis/20.txt
+  352  echo "sudo tail -f /var/log/syslog"
+  353  echo "sudo tail -f /var/log/syslog" > asix-so/resultats/p01/lluis/21.txt
+  354  echo "sudo tail -f /var/log/syslog"
+  355  crontab -l > asix-so/resultats/p01/lluis/20.txt
+  356  crontab -l
+  357  sudo tail -f /var/log/syslog
+  358  sudo service cron status
+  359  histoye
+  360  history
+  361  history > asix-so/resultats/p01/lluis/21.txt

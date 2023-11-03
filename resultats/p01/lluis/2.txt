@@ -1,0 +1,4 @@
+Fri Oct 27 16:35:24 UTC 2023
+
+L'hora de la maquina está en UTC (Universal Coordinated Time), és l'hora estandard
+per a la majoria de coses

@@ -1,0 +1,6 @@
+/home/lluis/asix-so/resultats/p01/lluis/17.txt:/var/lib/fitxer_random.md
+/home/lluis/asix-so/resultats/p01/lluis/12.txt:│   ├── README.md
+/home/lluis/asix-so/resultats/p01/lluis/14.txt:rtt min/avg/max/mdev = 0.221/0.396/1.170/0.264 ms
+/home/lluis/asix-so/resultats/p01/lluis/18.txt:/var/lib/fitxer_random.md
+Binary file /home/lluis/asix-so/.git/index matches
+/home/lluis/.ssh/id_rsa:wGbDmdYNaHOeaIYbX9ShLRYPcYWXixCnm2zTwo4lCuBDJtlzXW7XPsMpC+WtDIONCkZLJ3
