@@ -1,0 +1,17 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       9.6G  2.6G  7.0G  28% /
+devtmpfs        983M     0  983M   0% /dev
+tmpfs           987M     0  987M   0% /dev/shm
+tmpfs           198M  944K  197M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           987M     0  987M   0% /sys/fs/cgroup
+/dev/loop1       64M   64M     0 100% /snap/core20/1623
+/dev/loop0       56M   56M     0 100% /snap/core18/2566
+/dev/loop2      299M  299M     0 100% /snap/google-cloud-cli/72
+/dev/loop3       68M   68M     0 100% /snap/lxd/22753
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+/dev/loop5       41M   41M     0 100% /snap/snapd/20290
+/dev/loop6       56M   56M     0 100% /snap/core18/2790
+/dev/loop7       64M   64M     0 100% /snap/core20/2015
+/dev/loop8       92M   92M     0 100% /snap/lxd/24061
+tmpfs           198M     0  198M   0% /run/user/1002

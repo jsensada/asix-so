@@ -1,0 +1,337 @@
+    1  ls
+    2  sudo su -
+    3  sudo su -.
+    4  sudo su -
+    5  git config --global user.name "Edgar"
+    6  git config --global user.email "efernandez21@xarxa.fedac.cat"
+    7  git config --global user.name "edgar"
+    8  clear
+    9  ssh-keygen
+   10  cat ./.ssh/id_rsa.pub
+   11  ./inicia_practica.sh 
+   12  ls
+   13  cd asix-iso
+   14  cd ..
+   15  cat entrega_practica.sh 
+   16  cat inicia_practica.sh 
+   17  ls
+   18  cd asix-so
+   19  l
+   20  lsb_release -a
+   21  ls resultats/
+   22  git status
+   23  cd ..
+   24  rm asix-iso
+   25  rm -r asix-iso
+   26  rm -r asix-so
+   27  ls
+   28  nano inicia_practica.sh 
+   29  sudo nano inicia_practica.sh 
+   30  ls
+   31  ./inicia_practica.sh 
+   32  ls
+   33  git status
+   34  cd asix-so/
+   35  git status
+   36  date
+   37  time
+   38  uptime
+   39  uptime > ./resultats/p01/$(whoami)/1.txt
+   40  ls
+   41  ls resultats/
+   42  cat resultats/p01/
+   43  cat resultats/p01/edgar/1.txt 
+   44  cd ..
+   45  time > ~/asix-so/resultats/p01/$(whoami)/2.txt
+   46  cat asix-so/resultats/p01/edgar/2.txt 
+   47  date > ~/asix-so/resultats/p01/$(whoami)/2.txt
+   48  cat asix-so/resultats/p01/edgar/2.txt 
+   49  nano asix-so/resultats/p01/edgar/2.txt 
+   50  free
+   51  man free
+   52  total
+   53  free total
+   54  clean
+   55  clear
+   56  free
+   57  cat asix-so/resultats/p01/edgar/2.txt 
+   58  cat asix-so/resultats/p01/edgar/1.txt 
+   59  uptime > ./resultats/p01/$(whoami)/1.txt
+   60  uptime > ~/asix-so/resultats/p01/$(whoami)/1.txt
+   61  cat asix-so/resultats/p01/edgar/1.txt 
+   62  date > ~/asix-so/resultats/p01/$(whoami)/2.txt
+   63  cat asix-so/resultats/p01/edgar/2.txt 
+   64  nano asix-so/resultats/p01/edgar/2.txt 
+   65  cat asix-so/resultats/p01/edgar/2.txt 
+   66  free
+   67  free -g
+   68  free -g > ~/asix-so/resultats/p01/$(whoami)/3.txt
+   69  cat asix-so/resultats/p01/edgar/3.txt 
+   70  sudo du -h /home/* | sort -nr
+   71  df
+   72  df -h
+   73  free -g > ~/asix-so/resultats/p01/$(whoami)/3.txt
+   74  df -h > ~/asix-so/resultats/p01/$(whoami)/5.txt
+   75  cat asix-so/resultats/p01/edgar/4.txt 
+   76  cat asix-so/resultats/p01/edgar/3.txt 
+   77  df -h > ~/asix-so/resultats/p01/$(whoami)/4.txt
+   78  cat asix-so/resultats/p01/edgar/4.txt 
+   79  sudo du -h /home/* | sort -nr > ~/asix-so/resultats/p01/$(whoami)/5.txt
+   80  cat asix-so/resultats/p01/edgar/5.txt 
+   81  sudo apt update
+   82  nano asix-so/resultats/p01/edgar/6.txt 
+   83  cat asix-so/resultats/p01/edgar/6.txt 
+   84  sudo apt install nginx
+   85  man nginx 
+   86  nginx -v 
+   87  nginx -v >  ~/asix-so/resultats/p01/$(whoami)/7.txt
+   88  nginx -v > ~/asix-so/resultats/p01/$(whoami)/7.txt
+   89  cat asix-so/resultats/p01/edgar/7.txt 
+   90  nginx -v > ./asix-so/resultats/p01/$(whoami)/7.txt
+   91  nano ./asix-so/resultats/p01/$(whoami)/7.txt
+   92  cat ./asix-so/resultats/p01/$(whoami)/7.txt
+   93  man test
+   94  test -v
+   95  man test
+   96  test --version
+   97  man test
+   98  test --help
+   99  apt search test
+  100  man apt s
+  101  man apt search
+  102  man apt search file test
+  103  apt search test
+  104  nano ./asix-so/resultats/p01/$(whoami)/8.txt
+  105  cat ./asix-so/resultats/p01/$(whoami)/8.txt
+  106  ls .a
+  107  ls aa
+  108  ls -a
+  109  ls ..
+  110  ls ../..
+  111  ls ../../..
+  112  mkdir test
+  113  ls
+  114  cd
+  115  ls
+  116  cd test/
+  117  ls
+  118  touch prova
+  119  ls -s prova link
+  120  ln -s prova link
+  121  ls
+  122  cd link
+  123  cat link 
+  124  li
+  125  link
+  126  sudo link
+  127  sudo cd link
+  128  tree
+  129  sudo apt install tree
+  130  tree
+  131  cd ..
+  132  tree prova
+  133  tree ./test/
+  134  tree ./test/ >  ~/asix-so/resultats/p01/$(whoami)/12.txt
+  135  cat ./asix-so/resultats/p01/$(whoami)/12.txt
+  136  sudo chmod 752 ./prova
+  137  sudo chmod 752 ./test/
+  138  ls -a test/
+  139  man ls
+  140  ls -l
+  141  ls -l test/
+  142  sudo chmod 754 ./test/
+  143  ls -l test/
+  144  ls -l
+  145  ls -l/test
+  146  ls -l/"test"
+  147  ls -l ./"test"
+  148  ls -l ./'test'
+  149  ls -l ./*test
+  150  ls -dl ./test
+  151  ls -dl ./test > ~/asix-so/resultats/p01/$(whoami)/13.txt
+  152  sudo chmod 775 ./test/
+  153  sudo chmod 754 ./test/prova 
+  154  ls -l ./test/
+  155  sudo chmod 754 ./test/prova 
+  156  ls -l ./test/
+  157  ls -l ./test > ~/asix-so/resultats/p01/$(whoami)/13.txt
+  158  cat ./asix-so/resultats/p01/$(whoami)/13.txt
+  159  rm ./test/link 
+  160  ln -s prova link
+  161  ls
+  162  tree
+  163  tree > ~/asix-so/resultats/p01/$(whoami)/12.txt
+  164  cat ~/asix-so/resultats/p01/$(whoami)/12.txt
+  165  pint 8.8.8.8
+  166  ping 8.8.8.8
+  167  man ping
+  168  ping 8.8.8.8 > ~/asix-so/resultats/p01/$(whoami)/14.txt
+  169  cat ~/asix-so/resultats/p01/$(whoami)/14.txt
+  170  ping 34.78.228.23
+  171  xarxa.cat
+  172  curl 
+  173  curl --manual
+  174  curl xarxa.cat
+  175  curl xarxa.cat > ~/asix-so/resultats/p01/$(whoami)/16.txt
+  176  cat ~/asix-so/resultats/p01/$(whoami)/16.txt
+  177  curl xarxa.cat > ~/asix-so/resultats/p01/$(whoami)/16.txt
+  178  n
+  179  find fitxer_random.md
+  180  find /. fitxer_random.md
+  181  find -n /. fitxer_random.md
+  182  man find
+  183  find -n /. "fitxer"
+  184  find /. fitxer
+  185  find -n /. .md
+  186  find /. .md
+  187  touch hola.md
+  188  lss
+  189  ls
+  190  find /. .md
+  191  ls
+  192  find /. hola.md
+  193  sudo find / -name  fitxer_random.md
+  194  cat /var/lib/fitxer_random.md 
+  195  nano /var/lib/fitxer_random.md 
+  196  cat /var/lib/fitxer_random.md 
+  197  a
+  198  fdisk
+  199  fdisk --help
+  200  fdisk -l
+  201  sudo fdisk -l
+  202  fdisk --help
+  203  sudo lsblk
+  204  pvcreate /dev/sdb
+  205  sudo pvcreate /dev/sdb
+  206  vgcreate vg-fedac /dev/sdb
+  207  sudo vgcreate vg-fedac /dev/sdb
+  208  sudo lsblk
+  209  lvcreate -L 10G -n edgar vg-fedac
+  210  sudo lvcreate -L 10G -n edgar vg-fedac
+  211  sudo lsblk
+  212  ls /dev/sdb
+  213  ls /dev/
+  214  sudo mkdir /xarxa
+  215  sudo mkfs.ext4 /dev/vg-fedac/edgar
+  216  sudo lsblk
+  217  sudo mount /dev/vg-fedac/edgar /xarxa
+  218  sudo lsblk
+  219  sudo lvextend -L15G /dev/vg-fedac/edgar
+  220  sudo apt install nfs-kernel-server
+  221  nano /etc/exports 
+  222  sudo nano /etc/exports 
+  223  sudo systemctl restart nfs-kernel-server.service 
+  224  sudo systemctl restart nfs-kernel-server
+  225  sudo systemctl status
+  226  sudo systemctl status nfs-kernel-server.service 
+  227  sudo systemctl start nfs-kernel-server.service 
+  228  sudo systemctl start nfs-kernel-server 
+  229  sudo systemctl status nfs-kernel-server 
+  230  cat /etc/exports 
+  231  sudo nano /etc/exports 
+  232  sudo systemctl start nfs-kernel-server 
+  233  sudo systemctl status nfs-kernel-server 
+  234  mount 127.0.0.1/xarxa /mnt/shared
+  235* sudo mount 127.0.0.1/xarxa /mnt/share
+  236  mkdir /mnt/shared
+  237  sudo mkdir /mnt/shared
+  238  sudo mount 127.0.0.1/xarxa /mnt/shared
+  239  mount -t nfs 127.0.0.1:/xarxa /mnt/shared/
+  240  sudo mount -t nfs 127.0.0.1:/xarxa /mnt/shared/
+  241  df -h
+  242  sudo nano /etc/exports 
+  243  find / name fitxer_random.md
+  244  find / -name fitxer_random.md
+  245  sudo find / -name fitxer_random.md
+  246  find /. fitxer_random.md
+  247  find /. -name fitxer_random.md
+  248  sudo find /. -name fitxer_random.md
+  249  sudo find /. -name Aprovat
+  250  man find
+  251  sudo grep / -e "Aprovat"
+  252  sudo grep /. -e "Aprovat"
+  253  sudo grep -r /. -e "Aprovat"
+  254  sudo grep -r /* "Aprovat"
+  255  sudo grep -r "Aprovat" /*
+  256  sudo grep -r "Aprovat" /var/lib/*
+  257  sudo grep -r "Aprovat" /var/lib/* > ~/asix-so/resultats/p01/$(whoami)/18.txt
+  258  ls ./asix-so/resultats/p01/edgar/
+  259  df -h
+  260  +
+  261  sudo mount /dev/vg-fedac/edgar /xarxa
+  262  sudo mount -t nfs 127.0.0.1:/xarxa /mnt/shared/
+  263  df -h
+  264  ls /dev/mapper/vg--fedac-edgar 
+  265  sudo lvs
+  266  sudo unmount /xarxa
+  267  sudo umount /xarxa
+  268  sudo service nfs-server stop
+  269  sudo umount /xarxa
+  270  df -h
+  271  top
+  272  df -h
+  273  ls
+  274  ls /xarxa
+  275  sudo mount /dev/vg-fedac/edgar /xarxa
+  276  df -h
+  277  sudo reboot
+  278  df -h
+  279  sudo mount /dev/vg-fedac/edgar 
+  280  sudo mount /dev/vg-fedac/edgar /xarxa
+  281  df -h
+  282  sudo vg
+  283  clear
+  284  df -h
+  285  sudo lvs
+  286  sudo resize2fs /xarxa
+  287  df -h
+  288  sudo resize2fs /dev/mapper/vg--fedac-edgar 
+  289  df -h
+  290  sudo mount -t nfs 127.0.0.1:/xarxa /mnt/shared/
+  291  df -h
+  292  df -h > ~/asix-so/resultats/p01/$(whoami)/fs.txt
+  293  cat ~/asix-so/resultats/p01/$(whoami)/fs.txt
+  294  grep -r ./*.md
+  295  grep -r ./* .md
+  296  grep -R .md /home/edgar/
+  297  sudo grep -R .md /home/edgar/
+  298  sudo grep -r .md /home/edgar/
+  299  clear
+  300  find -n "*.md" /home/edgar/
+  301  find -name "*.md" /home/edgar/
+  302  find --name "*.md" /home/edgar/
+  303  find --help
+  304  find -name "*.md" /home/edgar/*
+  305  find -name *.md /home/edgar/*
+  306  find -name ".md" /home/edgar/*
+  307  find /home/edgar/* -name "*.md"
+  308  find /home/edgar/* -name "*.txt"
+  309  find /home/edgar/* -name "*.md" > ~/asix-so/resultats/p01/$(whoami)/19.txt
+  310  cat ~/asix-so/resultats/p01/$(whoami)/19.txt
+  311  name
+  312  hostname
+  313  crontab -e
+  314  crontab -l
+  315  crontab -e
+  316  cat syslog
+  317  tail -f /var/log/syslog
+  318  sudo tail -f /var/log/syslog
+  319  sudo systemctl status cron.service 
+  320  crontab -e
+  321  ls asix-so/resultats/p01/edgar/
+  322  sudo find /. -name fitxer_random.md
+  323  sudo umount /mnt/shared 
+  324  sudo find /. -name fitxer_random.md
+  325  sudo find /. -name fitxer_random.md > ~/asix-so/resultats/p01/$(whoami)/17.txt
+  326  ls asix-so/resultats/p01/edgar/
+  327  sudo tail -f /var/log/syslog
+  328  "sudo tail -f /var/log/syslog"<~/asix-so/resultats/p01/$(whoami)/21.txt
+  329  "sudo tail -f /var/log/syslog" < ~/asix-so/resultats/p01/$(whoami)/21.txt
+  330  touch ~/asix-so/resultats/p01/$(whoami)/21.txt
+  331* "[Bsudo tail -f /var/log/syslog" < ~/asix-so/resultats/p01/$(whoami)/21.txt
+  332  nano ~/asix-so/resultats/p01/$(whoami)/21.txt
+  333  crontab -l
+  334  touch ~/asix-so/resultats/p01/$(whoami)/20.txt
+  335  nano ~/asix-so/resultats/p01/$(whoami)/20.txt
+  336  history 
+  337  history >~/asix-so/resultats/p01/$(whoami)/22.txt

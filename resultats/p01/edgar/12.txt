@@ -1,0 +1,23 @@
+.
+├── asix-so
+│   ├── README.md
+│   └── resultats
+│       └── p01
+│           └── edgar
+│               ├── 1.txt
+│               ├── 12.txt
+│               ├── 13.txt
+│               ├── 2.txt
+│               ├── 3.txt
+│               ├── 4.txt
+│               ├── 5.txt
+│               ├── 6.txt
+│               ├── 7.txt
+│               └── 8.txt
+├── entrega_practica.sh
+├── inicia_practica.sh
+├── link -> prova
+└── test
+    └── prova
+
+5 directories, 15 files

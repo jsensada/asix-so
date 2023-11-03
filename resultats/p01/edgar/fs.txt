@@ -1,0 +1,19 @@
+Filesystem                   Size  Used Avail Use% Mounted on
+/dev/root                    9.6G  2.7G  6.9G  28% /
+devtmpfs                     977M     0  977M   0% /dev
+tmpfs                        981M     0  981M   0% /dev/shm
+tmpfs                        197M  968K  196M   1% /run
+tmpfs                        5.0M     0  5.0M   0% /run/lock
+tmpfs                        981M     0  981M   0% /sys/fs/cgroup
+/dev/loop0                    56M   56M     0 100% /snap/core18/2790
+/dev/loop1                    56M   56M     0 100% /snap/core18/2796
+/dev/loop3                    64M   64M     0 100% /snap/core20/2015
+/dev/loop4                   299M  299M     0 100% /snap/google-cloud-cli/72
+/dev/loop2                    64M   64M     0 100% /snap/core20/1623
+/dev/loop5                    68M   68M     0 100% /snap/lxd/22753
+/dev/loop6                    92M   92M     0 100% /snap/lxd/24061
+/dev/loop7                    41M   41M     0 100% /snap/snapd/20290
+/dev/sda15                   105M  6.1M   99M   6% /boot/efi
+tmpfs                        197M     0  197M   0% /run/user/1002
+/dev/mapper/vg--fedac-edgar   15G   24K   14G   1% /xarxa
+127.0.0.1:/xarxa              15G     0   14G   0% /mnt/shared
