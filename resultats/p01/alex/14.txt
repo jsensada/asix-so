@@ -1,0 +1,12 @@
+PING google.com (172.253.120.139) 56(84) bytes of data.
+64 bytes from wd-in-f139.1e100.net (172.253.120.139): icmp_seq=1 ttl=118 time=0.865 ms
+64 bytes from wd-in-f139.1e100.net (172.253.120.139): icmp_seq=2 ttl=118 time=0.351 ms
+64 bytes from wd-in-f139.1e100.net (172.253.120.139): icmp_seq=3 ttl=118 time=0.369 ms
+64 bytes from wd-in-f139.1e100.net (172.253.120.139): icmp_seq=4 ttl=118 time=0.462 ms
+64 bytes from wd-in-f139.1e100.net (172.253.120.139): icmp_seq=5 ttl=118 time=0.361 ms
+64 bytes from wd-in-f139.1e100.net (172.253.120.139): icmp_seq=6 ttl=118 time=0.331 ms
+64 bytes from wd-in-f139.1e100.net (172.253.120.139): icmp_seq=7 ttl=118 time=0.338 ms
+
+--- google.com ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6101ms
+rtt min/avg/max/mdev = 0.331/0.439/0.865/0.178 ms

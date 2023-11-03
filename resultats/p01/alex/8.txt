@@ -1,0 +1,5 @@
+NO
+He utilitzat:
+sudo apt list --installed | grep test
+sudo dpkg -l \ grep test
+I no m'ha trobat res

@@ -1,0 +1,4 @@
+Filesystem                  Size  Used Avail Use% Mounted on
+/dev/mapper/vg--fedac-alex  9.8G   24K  9.3G   1% /xarxa
+Filesystem        Size  Used Avail Use% Mounted on
+localhost:/xarxa  9.8G  256K  9.3G   1% /mnt/shared
