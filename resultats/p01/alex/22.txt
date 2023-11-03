@@ -1,0 +1,335 @@
+    1  pwd
+    2  cd ..
+    3  ls
+    4  cd alex/
+    5  w
+    6  cls
+    7  clear
+    8  su -
+    9  alex su -
+   10  sudo su -
+   11  git config --global user.alex "acasi12"
+   12  git config --global user.name ""
+   13  git config --global user.email "acasimiro12@xarxa.fedac.cat"
+   14  ssh-keygen 
+   15  cat ~/.ssh/id_rsa.pub 
+   16  ./inicia_practica.sh 
+   17  nano inicia_practica.sh 
+   18  sudo nano inicia_practica.sh 
+   19  clear
+   20  ./inicia_practica.sh 
+   21  ls
+   22  rmdir asix-iso/
+   23  rm -rf asix-iso/
+   24  ls
+   25  sudo nano inicia_practica.sh 
+   26  ls
+   27  rm -rf asix-so/
+   28  ./inicia_practica.sh 
+   29  ls
+   30  rm -rf asix-so/
+   31  ls
+   32  sudo nano inicia_practica.sh 
+   33  ./inicia_practica.sh 
+   34  sudo nano inicia_practica.sh 
+   35  clear
+   36  la a ~/asix-so/resultats/p01/alex/0.txt
+   37  lsb_release -a
+   38  w
+   39  wmd
+   40  w -l
+   41  clear
+   42  uptime
+   43  uptime > ~/asix-so/resultats/p01/alex/1.txt
+   44  date
+   45  date > ~/asix-so/resultats/p01/alex/2.txt 
+   46  free
+   47  free -s
+   48  free -giga
+   49  free --giga
+   50  free -h
+   51  free -h --giga
+   52  free -h
+   53  free -h --giga
+   54  free -h
+   55  free -
+   56  free 
+   57  free -m
+   58  free -mx
+   59  free -th
+   60  free -h
+   61  free -th
+   62  free -th > ~/asix-so/resultats/p01/alex/3.txt
+   63  ls -z
+   64  ls --help
+   65  ls -s
+   66  ls -S
+   67  ls -s
+   68  sudo ls -s
+   69  ls --short 
+   70  ls -df
+   71  ls -lf
+   72  ls -lft
+   73  ls -sort
+   74  ls -sort -d
+   75  ls -sort -l
+   76  sudo du -h /home/* | sort -hr
+   77  sudo du -h /home/* | sort -hr > ~/asix-so/resultats/p01/alex/5.txt
+   78  clear
+   79  disk
+   80  clear
+   81  disk --help
+   82  clear
+   83  df -h
+   84  df -lhelp
+   85  df --help
+   86  df -ah
+   87  df -h
+   88  df -h > ~/asix-so/resultats/p01/alex/4.txt
+   89  cat ~/asix-so/resultats/p01/alex/4.txt 
+   90  nano ~/asix-so/resultats/p01/alex/4.txt 
+   91  clear
+   92  apt update
+   93  sudo apt update
+   94  nano ~/asix-so/resultats/p01/alex/6.txt
+   95  sudo apt install nginx
+   96  nginx --version
+   97  nginx -v
+   98  nginx -v > ~/asix-so/resultats/p01/alex/7.txt
+   99  history
+  100  sudo apt list --installed | grep test
+  101  sudo dpkg -l | grep test
+  102  nano ~/asix-so/resultats/p01/alex/8.txt [B
+  103  clear
+  104  cd
+  105  ls
+  106  cd /home/
+  107  pwd
+  108  cd 
+  109  pwd
+  110  cd 
+  111  pwd
+  112  cd /etc
+  113  pwd
+  114  ls
+  115  cd 
+  116  ls
+  117  pwd
+  118  clear
+  119  mkdir test
+  120  touch prova.txt
+  121  ls
+  122  mv prova.txt test/
+  123  ls
+  124  cd test/
+  125  ls
+  126  cd ..
+  127  link test/prova.txt link
+  128  ls
+  129  cd link
+  130  nano link
+  131  nan link 
+  132  clear
+  133  nano link 
+  134  clear
+  135  cat link 
+  136  cd test/
+  137  ls
+  138  cat prova.txt 
+  139  clear
+  140  cd ..
+  141  cat test/prova.txt 
+  142  cat link
+  143  ls
+  144  cd test/
+  145  ls
+  146  sudo apt install tree
+  147  tree
+  148  cd ..
+  149  tree
+  150  tree -
+  151  l
+  152  clear
+  153  tree
+  154  nano link
+  155  nano test/prova.txt 
+  156  clear
+  157  rm link 
+  158  ln -s test/prova.txt  link
+  159  tree
+  160  clear
+  161  cd ~/asix-so/resultats/p01/alex/
+  162  ls
+  163  nano 1.txt 
+  164  nano 2.txt 
+  165  cat 3.txt 
+  166  cat 4.txt 
+  167  cat 5.txt 
+  168  cat 6.txt 
+  169  cat 7.txt 
+  170  cat 8.txt 
+  171  history 
+  172  nginx -v
+  173  nginx -v > ~/asix-so/resultats/p01/alex/7.txt 
+  174  cat 7.txt 
+  175  nano 7.txt 
+  176  clear
+  177  ls
+  178  cd home
+  179  cd /home/alex/
+  180  ls
+  181  cd homee
+  182  cd home
+  183  clear
+  184  tree
+  185  tree > ~/asix-so/resultats/p01/alex/12.txt
+  186  cat ~/asix-so/resultats/p01/alex/12.txt 
+  187  clear
+  188  ls
+  189  s test/
+  190  ls test/
+  191  chmod 754 test/prova.txt 
+  192  ls -l test/prova.txt 
+  193  ls -l test/prova.txt > ~/asix-so/resultats/p01/alex/13.txt
+  194  cat ~/asix-so/resultats/p01/alex/13.txt 
+  195  clear
+  196  cat ~/asix-so/resultats/p01/alex/13.txt 
+  197  ping google.com
+  198  clear
+  199  ping google.com
+  200  ip a
+  201  ping 343.78.228.23
+  202  ping 34.78.228.23
+  203  nmap 
+  204  sudo apt install nmap
+  205  nmap -p 80,90,22 34.78.228.23
+  206  nmap -p 80,90,22 34.78.228.23 > ~/asix-so/resultats/p01/alex/15.txt
+  207  ping google.com > ~/asix-so/resultats/p01/alex/14.txt
+  208  cat ~/asix-so/resultats/p01/alex/14.txt 
+  209  clear
+  210  curl xarxa.cat > ~/asix-so/resultats/p01/alex/16.txt
+  211  cat ~/asix-so/resultats/p01/alex/16.txt 
+  212  clear
+  213  history
+  214  fdisk -l
+  215  sudo fdink -l
+  216  sudo fdisk -l
+  217  pvcreate /dev/sdb
+  218  sudo pvcreate /dev/sdb
+  219  sudo vgcreate vg -fedac /dev/sdb
+  220  sudo vgcreate vg-fedac /dev/sdb
+  221  lvcreate -L +10g acasi12 vg-fedac
+  222  sudo lvcreate -L +10g acasi12 vg-fedac
+  223  lvcreate -L +10g acasi12 vg-fedac
+  224  sudo lvcreate -L +10g acasi12 vg-fedac
+  225  lvcreate -L +10g alex vg-fedac
+  226  nano lvcreate -L +10g alex vg-fedac
+  227  sudo lvcreate -L +10g alex vg-fedac
+  228  sudo lvcreate -L +10g acasi vg-fedac
+  229  sudo lvcreate -L +10g -n alex vg-fedac
+  230  mkfs.ext4 /dev/vg-fedac/alex 
+  231  sudo mkfs.ext4 /dev/vg-fedac/alex 
+  232  sudo mkdir 
+  233  sudo mkfs
+  234  sudo mkfs.ext4 /dev/vg-fedac/alex 
+  235  mount /dev/vg-fedac/alex /xarxa
+  236  sudo mount /dev/vg-fedac/alex /xarxa
+  237  sudo mkdir /xarxa
+  238  mount /dev/vg-fedac/alex  /xarxa
+  239  sudo mount /dev/vg-fedac/alex  /xarxa
+  240  echo "/dev/vg-fedac/alex /xarxa ext4 defaults 0 0" | sudo tee -a /etc/fstab 
+  241  sudo apt update 
+  242  sudo apt install nfs-kernel-server 
+  243  sudo mkdir /mnt/shared
+  244  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  245  sudo reboot now
+  246  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  247  lsblk
+  248  systemctl start nfs-server
+  249  systemctl status nfs-server.service 
+  250  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  251  systemctl start nfs-server
+  252  sudo systemctl start nfs-server
+  253  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  254  sudo systemctl restart nfs-server
+  255  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  256  history
+  257  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  258  sudo service nfs-server status
+  259  sudo service nfs-server restart
+  260  sudo nano /etc/exports 
+  261  sudo service nfs-server restart
+  262  sudo nano /etc/exports 
+  263  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  264  sudo service nfs-server restart
+  265  sudo mkdir /mnt/shared/
+  266  sudo mkdir /mnt/shared
+  267  sudo mount -t nfs localhost:/xarxa /mnt/shared/
+  268  df -h xarxa
+  269  df -h /xarxa
+  270  df -h /mnt/shared/
+  271  ip a
+  272  clear
+  273  df -h /xarxa
+  274  df -h /mnt/shared/
+  275  df -h /xarxa > ~/asix-so/resultats/p01/alex/fs.txt
+  276  df -h /mnt/shared/ >> ~/asix-so/resultats/p01/alex/fs.txt
+  277  cat ~/asix-so/resultats/p01/alex/fs.txt 
+  278  clear
+  279  find 
+  280  find Aprovat 
+  281  find aprovat 
+  282  find "aprovat" 
+  283  grep aprovat 
+  284  cd /var/lib/
+  285  grep aprovat
+  286  grep /aprovat
+  287  ls
+  288  grep aprovat fitxer_random.md 
+  289  find aprovat fitxer_random.md 
+  290  grep fitxer_random.md 
+  291  cat fitxer_random.md 
+  292  cd
+  293  grep test
+  294  grep -r "Aprovat" /var/lib/
+  295  sudo grep -r "Aprovat" /var/lib/*
+  296  sudo grep -r "Aprovat" /var/lib/* > ~/asix-so/resultats/p01/alex/18.txt
+  297  cat ~/asix-so/resultats/p01/alex/18.txt 
+  298  sudo grep -r ".md" /home/alex/*
+  299  sudo find -r ".md" /home/alex/*
+  300  sudo find ".md" /home/alex/*
+  301  sudo find ~/ -type f -name "*.md"
+  302  sudo find ~/ -type f -name "*.md" > ~/asix-so/resultats/p01/alex/19.txt
+  303  clear
+  304  history
+  305  ls ~/asix-so/resultats/p01/alex/19.txt 
+  306  cat ~/asix-so/resultats/p01/alex/19.txt 
+  307  nano mostra_nom_maquina.sh
+  308  chmod +x mostra_nom_maquina.sh 
+  309  crontab -e
+  310  ./mostra_nom_maquina.sh 
+  311  nano mostra_nom_maquina.sh
+  312  clear
+  313  nano mostra_nom_maquina.sh
+  314  ./mostra_nom_maquina.sh 
+  315  nano mostra_nom_maquina.sh
+  316  rm mostra_nom_maquina.sh 
+  317  crontab -e
+  318  cat ~/asix-so/resultats/p01/alex/
+  319  hostname > ~/asix-so/resultats/p01/alex/20.txt
+  320  clear
+  321  tail -f /var/log/syslog | grep CRON
+  322  sudo tail -f /var/log/syslog | grep CRON
+  323  clear
+  324  cron -e
+  325  cron -f
+  326  cron -e
+  327  crontab -e
+  328  sudo tail -f /var/log/syslog | grep CRON
+  329  sudo tail -f /var/log/syslog
+  330  crontab -l
+  331  sudo tail -f /var/log/syslog
+  332  sudo tail -f /var/log/syslog | grep CRON
+  333  sudo tail -f /var/log/syslog | grep CRON >> ~/asix-so/resultats/p01/alex/20.txt 
+  334  sudo tail -f /var/log/syslog | grep CRON > ~/asix-so/resultats/p01/alex/21.txt 
+  335  history > ~/asix-so/resultats/p01/alex/22.txt
